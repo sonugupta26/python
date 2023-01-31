@@ -1,0 +1,8 @@
+name = input("enter your name")
+print(name)
+address = input("enter your address")
+print(address)
+a=input("enter your num1")
+b=input("enter your num2")
+c=int(a)*int(b)
+print(c)
