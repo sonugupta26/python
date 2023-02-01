@@ -1,24 +1,24 @@
 
-# colors = ["yello", "red", "orange", "blue", "voilet", "red", "white"]
-# colors_remove = ["red", "voilet"]
+colors = ["yello", "red", "orange", "blue", "voilet", "red", "white"]
+colors_remove = ["red", "voilet"]
 
 
-# colors = [i for i in colors if i not in colors_remove]
-# print(colors)
+colors = [i for i in colors if i not in colors_remove]
+print(colors)
 
 
 
-# # a = [1, 2, 3, 4, 5]
-# # b = [1, 3]
+# a = [1, 2, 3, 4, 5]
+# b = [1, 3]
 
-# # a =[ i for i in a
-# #     if i not in b]
-# # print(a)
+# a =[ i for i in a
+#     if i not in b]
+# print(a)
 
-# # a = [1, 2, 3, 4, 5, 6]
-# # b = [1, 2, 3,]
-# # for i in a:
-# #     print(i)
+# a = [1, 2, 3, 4, 5, 6]
+# b = [1, 2, 3,]
+# for i in a:
+#     print(i)
 
 
 # fruits = ["apple", "gauwa", "grapes", "banana", "orange"]
