@@ -1,23 +1,24 @@
 
-# profile = {
-#     "name": "Ram",
-#     "gender":"male",
-#     "education":[
-#         {"collage": "abc collage", "level": "+2"},
-#         {"collage": "xyz collage", "level": "bachlor"},
-#     ],
-#     "addresh":[
-#         {
-#             "temporary":{
-#                 "ward": 1,
-#                 "city": "ktm",
-#             },
-#             "permanent":{
-#                 "ward": 2,
-#                 "city": "birgunj",
-#             }
-#         }
-#     ]
+profile = {
+    "name": "Ram",
+    "gender":"male"
+    "education"[
+        {"collage": "abc collage", "level": "+2"},
+        {"collage": "xyz collage", "level": "bachlor"},
+    ],
+    "addresh":[
+        {
+            "temporary":{
+                "ward": 1,
+                "city": "ktm",
+            },
+            "permanent":{
+                "ward": 2,
+                "city": "birgunj",
+            }
+        }
+    ]
+}
 
 # }
 # print(f"name-{profile.get('name')}")
